@@ -16,3 +16,10 @@
     /captures
     .externalNativeBuild
     .cxx
+
+
+### Run Android Studio without terminal
+
+    1. Run studio using terminal
+    2. Tools -> Create desktop entry
+    3. Close studio and search for the application using Ubuntu search application
